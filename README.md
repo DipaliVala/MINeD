@@ -62,6 +62,6 @@ vehicle-routing-optimization/
 ├── templates/              # HTML templates
 │   ├── upload.html         # Upload Excel file page
 │   ├── select_timeslot.html# Select time slot page
-│   ├── trips.html          # Display optimized trips
+│   ├── trips.html          # Display optimized trip
 │   └── map.html            # Interactive map page
 └── README.md               # Project  documentation

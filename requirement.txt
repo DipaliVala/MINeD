@@ -1,0 +1,25 @@
+# Core Libraries
+Flask==2.3.2
+pandas==2.0.3
+numpy==1.24.3
+
+# Geographical Calculations
+geopy==2.3.0
+haversine==2.8.0
+
+# Clustering and Optimization
+scikit-learn==1.3.0
+scipy==1.10.1
+
+# Data Visualization (Optional, for maps)
+folium==0.14.0
+
+# Excel File Handling
+openpyxl==3.1.2
+
+# Development Tools
+Jupyter==1.0.0
+ipykernel==6.23.1
+
+# Virtual Environment (Optional)
+virtualenv==20.23.0

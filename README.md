@@ -55,7 +55,7 @@ This project is a Flask-based web application designed to optimize vehicle routi
 
 ```plaintext
 vehicle-routing-optimization/
-├── app.py                  # Flask application entry points
+├── app.py                  # Flask application entry 
 ├── requirements.txt        # Python dependencies
 ├── static/                 # Static files (CSS, JS, images)
 │   └── styles.css          # Custom CSS for styling

@@ -57,8 +57,6 @@ This project is a Flask-based web application designed to optimize vehicle routi
 vehicle-routing-optimization/
 ├── app.py                  # Flask application entry points
 ├── requirements.txt        # Python dependencies
-├── static/                 # Static files (CSS, JS, images)
-│   └── styles.css          # Custom CSS for styling
 ├── templates/              # HTML templates
 │   ├── upload.html         # Upload Excel file page
 │   ├── select_timeslot.html# Select time slot page
